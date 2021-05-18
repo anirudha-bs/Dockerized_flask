@@ -1,5 +1,5 @@
 # Dockerized_flask
-This a simple Dockerized Flask app with Gunicorn as the wsgi server and nginx as load balancer.
+This a simple Dockerized Flask app with Gunicorn wsgi server and nginx as load balancer(round robin by default).
 
 To run use -
 
